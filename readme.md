@@ -20,8 +20,8 @@ LICENSE: [MIT](license.md)
 5. [git push](push.md)
 #### Получение данных с репозитория
 1. [git status](status.md)
-2. [git log]
-3. [git show]
+2. [git log](log.md)
+3. [git show](show.md)
 
 *GIT logo by Jason Long - http://git-scm.com/downloads/logos, 
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)*
